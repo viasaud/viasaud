@@ -8,10 +8,6 @@
 
 ###
 
-<h4 align="center">Please see pinned projects below</h4>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -32,5 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viasaud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=viasaud&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h4 align="center">⇓ Please see pinned projects below ⇓</h4>
 
 ###
